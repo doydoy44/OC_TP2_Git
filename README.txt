@@ -1,4 +1,4 @@
-CE ci est l'explication du contenu du TP concernant GIT
+Ceci est l'explication du contenu du TP concernant GIT
 =======================================================
 
-Il faut dire "toto" dans plusieurs languages
+Il faut afficher "toto" dans plusieurs languages
