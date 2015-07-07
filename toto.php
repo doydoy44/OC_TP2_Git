@@ -1,5 +1,5 @@
 <?php
 /*
- * Ce programme permet de dire toto
+ * Ce programme permet d'afficher toto
  */
 echo "toto";
